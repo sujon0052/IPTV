@@ -11,6 +11,6 @@ https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:-1 group-title="Bangla tv channel",RTV
 http://103.205.133.14/hls/rtv.m3u8
-
-
+#EXTINF:-1 group-title="Bangla tv channel",SATV
+https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 
