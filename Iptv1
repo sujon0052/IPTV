@@ -14,3 +14,61 @@ http://103.205.133.14/hls/rtv.m3u8
 #EXTINF:-1 group-title="Bangla tv channel",SATV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 
+#EXTINF:-1 group-title="WORLD IPTV",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/fGdHIGy.png",ESNE TV
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",瑗胯櫣甯傞瀵�
+https://zuikzy.win7i.com/2018/07/30/hCt7GSGU1sAgOC8j/playlist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",绉綊鏂伴椈缁煎悎
+http://zigui.live.cjyun.org/video/s10111-ZGTV1.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="http://www.nettv.live/uploads/18/1-1PG421013KU.jpg",鏅嬪窞缁煎悎
+http://zhjz.chinashadt.com:2036/live/1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",娌冲寳鏅嬪窞缁煎悎
+http://zhjz.chinashadt.com:2036/live/1.stream/playlist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/wnQPn2d.jpg",棣欐腐琛涜
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="http://www.tvyan.com/uploads/dianshi/panzhihua.jpg",鏀€鏋濊姳鍏叡
+http://zb.pzhgd.com:9091/live/ggpd_800k.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="http://www.tvyan.com/uploads/dianshi/panzhihua.jpg",鏀€鏋濊姳鏂伴椈
+http://zb.pzhgd.com:9091/live/xwzh.m3u8
+#EXTINF:-1 group-title="MOVIE PLEX" tvg-logo="https://i.imgur.com/v5KMe5E.jpg",INDONESIAN || MATA BATIN 2 (2019)
+https://zaccar.b-cdn.net/movies/01-10-2020/Mata.Batin.2.(2019).mp4
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Living-foodz-logo.jpg/200px-Living-foodz-logo.jpg",Living Foodz
+http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/7kavMAI.png",Wion TV
+http://z5amshls.akamaized.net/wion/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",澶ф偀缁煎悎
+http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",榫欏彛鍥炬枃棰戦亾
+http://yslk.chinashadt.com:1635/live/stream:di4.stream/playlist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",榫欏彛鏂伴椈缁煎悎
+http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",榫欏彛鐢熸椿棰戦亾
+http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",闄嶅ご(绮よ鏃犲瓧)
+https://youku.cdn2-youku.com/20180519/11386_2c9e569c/index.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/MTZM0k5.png",Yle TV1
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/SHLh731.png",Yle TV2
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",搴斿煄鏂伴椈缁煎悎
+http://yingcheng.live.cjyun.org/video/s10135-YCZH/index.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",搴斿煄鐢熸椿棰戦亾
+http://yingcheng.live.cjyun.org/video/s10135-YCDJ/index.m3u8
+#EXTINF:-1 group-title="WORLD IPTV",澶烽櫟缁煎悎
+http://yiling.live.cjyun.org/video/s10174-TC1T/index.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.ibb.co/yBGZy4n/obCp0aK.png",Ahi TV Kirsehir
+http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.ibb.co/nm59LwX/ZbkdWg9.png",Diyalog TV
+http://yayin3.canlitv.com:1935/live/diyalogtv/chunklist.m3u8
+#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.ibb.co/TtbYRZD/i3ua14I.jpg",ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.imgur.com/85m3yYe.jpg",ZEE MUNDO
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/cYP18gp.png",Z Classic
+https://y5w8j4a9.ssl.hwcdn.net/zl
