@@ -1,4 +1,6 @@
-#EXTM3U   
+#EXTM3U
+#EXTINF:-1 group-title="Bangla tv channel",Sangsad TV
+https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 #EXTINF:-1,group-title="Bangla tv channel",BTV
 http://103.205.133.19/hls/btv.m3u8
 #EXTINF:-2group-title="Bangla tv channel",BTV World
@@ -13,3 +15,50 @@ http://103.205.133.19/hls/ntv.m3u8
 http://103.205.133.14/hls/rtv.m3u8
 #EXTINF:-7 group-title="Bangla tv channel",SATV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:-1,group-title="Bangla tv channel"Asian TV
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Banglavision
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Boishakhi
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Channel 9
+https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Duronto TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Desh TV
+https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Ekushey TV
+https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",GTV
+http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Maasranga
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",MOHONA TV
+https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",MY TV
+https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+#EXTINF:- 1 group-title="Bangla tv channel",ATN News
+https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",CHANNEL 24
+https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",DBC News
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Independent
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Shomoy TV
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",JAMUNA TV
+https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",News 24
+https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Gaan Bangla
+https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+
+
+
+
+
+
+
