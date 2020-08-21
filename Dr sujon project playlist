@@ -39,6 +39,12 @@ https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla tv channel",MY TV
 https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",Bangla Channel
+http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Bangla tv channel",ITV Bangla
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:- 1 group-title="Bangla tv channel",ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 group-title="Bangla tv channel",CHANNEL 24
