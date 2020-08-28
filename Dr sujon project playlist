@@ -61,10 +61,16 @@ https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 group-title="Bangla tv channel",Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-
-
-
-
-
-
+#EXTINF:-1, group-title="kolkata tv channel"Star Jalsha HD
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+#EXTINF:-1, group-title="kolkata tv channel"Jalsha Movies
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1, group-title="kolkata tv channel"Zee Bangla
+https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:-1, group-title="kolkata tv channel"Colors Bangla HD
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1, group-title="kolkata tv channel"Ruposhi Bangla
+https://itpolly.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+#EXTINF:-1, group-title="kolkata tv channel"SangeetBangla
+https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 
