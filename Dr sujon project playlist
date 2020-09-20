@@ -129,7 +129,7 @@ https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla tv channel",Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla tv channel",GTV
-http://103.211.185.98:8082/1/index.m3u8?token=71ddaad13ebb69f35893e42b85544f94c244b12b-70ef99d08a30df881d2d27fec4c68204-1600600753-1600589953&remote=114.31.8.118
+http://192.243.101.159:8081/livetv/gazitv/chunks.m3u8?
 #EXTINF:-1 group-title="Bangla tv channel",Maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 group-title="Bangla tv channel",MOHONA TV
